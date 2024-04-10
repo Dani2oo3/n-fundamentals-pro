@@ -17,7 +17,7 @@ export class SongsController {
     }
     @Get(':id')
     findOne() {
-        return 'fetch song on the based on id';
+        return 'fetch song on the based on all id';
     }
     @Put(':id')
     update() {
