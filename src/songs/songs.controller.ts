@@ -25,6 +25,6 @@ export class SongsController {
     }
     @Delete(':id')
     delete() {
-        return 'delete song on the based on id';
+        return 'delete song on the based on id on app';
     }
 }
